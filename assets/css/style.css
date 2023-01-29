@@ -1,0 +1,39 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon{
+
+    position: relative;
+}
+
+.icon i{
+    
+    font-size: 60px;
+    color: antiquewhite;
+    margin-left: 500px;
+    margin-top: 250px;
+    border: 1px solid brown;
+    padding: 60px;
+    border-radius:  1% 25%;
+    background-color: saddlebrown;
+    font-family: system-ui,;
+}
+
+
+  .icon h2{
+
+    margin-left: 530px;
+    padding-top: 30px;
+  }
+
+  .icon p{
+    margin-left: 505px;
+    padding-top: 10px;
+    font-family: sans-serif;
+    color: darkgoldenrod;
+}
+  
